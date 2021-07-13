@@ -1,0 +1,1 @@
+The credit card approval prediction model gets data from a kaggle dataset of a Bank. It tests different supervised ML algorithms to classify the customers in the dataset as "good" or "bad". Some of the algorithms used are: Logistic regression, Random Forest, Support Vector Machine, XGBoost, CatBoost and more.
